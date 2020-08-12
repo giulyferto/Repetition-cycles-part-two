@@ -32,6 +32,7 @@ public class ExerciseTwo {
 
             rowB = columnA;
         } else {
+
             System.out.println("\nNo se pueden multiplicar las matrices");
             System.exit(0);
         }
